@@ -1,1 +1,2 @@
 # squash-check
+check
